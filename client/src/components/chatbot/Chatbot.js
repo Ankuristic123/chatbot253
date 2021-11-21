@@ -6,6 +6,8 @@ import { v4 as uuid } from 'uuid';
 import Card from './Card';
 import QuickReplies from './QuickReplies';
 import { withRouter } from 'react-router-dom';
+import './chatbot.css';
+
 const cookies = new Cookies();
 class Chatbot extends Component {
     messagesEnd;
