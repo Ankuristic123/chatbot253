@@ -17,3 +17,35 @@
 /* .a{
     background-color:#219653;
   } */ 
+
+  .row .col{
+      float: right;
+  }
+
+  .card-panel {
+      border-radius: 80%;
+      margin: 20px;
+       /* margin-bottom: 10px;
+      margin-left: 50px; */
+       width: 200px; 
+       padding:2px;
+       position: revert;
+       
+      /* border: 4px; */
+      
+      /* height:28px; */
+      /* background-color: red; */
+     
+  }
+
+ 
+
+  /* .btn-floating .btn-small .waves-effect {
+      background-color:salmon;
+  } */
+
+  .red{
+      background-color: seagreen !important;
+  }
+
+ 
