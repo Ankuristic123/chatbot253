@@ -193,9 +193,9 @@ class Chatbot extends Component {
       // eslint-disable-next-line no-unreachable
       return (
         <div key={i}>
-          <div className="card-panel grey lighten-5 z-depth-1">
+          <div className="card-panel grey lighten-5 z-depth-1 first ">
             <div style={{ overflow: "hidden" }}>
-              <div className="col s2">
+              <div className="col s2 ">
                 <a
                   href="/"
                   className="btn-floating btn-small waves-effect waves-light red"
@@ -279,7 +279,7 @@ class Chatbot extends Component {
               maxHeight: 288,
               width: "100%",
               overflow: "auto",
-              backgroundColor:"blue",
+              backgroundColor:"white"
             }}
           >
             {this.renderMessages(this.state.messages)}

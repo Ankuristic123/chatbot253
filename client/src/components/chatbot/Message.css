@@ -1,9 +1,9 @@
-.red{
+/* .red{
     background-color: slateblue;
-}
+} */
 
 
-#card-panel.user {
+/* #card-panel.user {
     border-radius: 50%;
     margin: 40px;
     width:100px;
@@ -11,8 +11,53 @@
     position:left;
 
    
-}
-#card-panel #grey #lighten-5 #z-depth-1{
+} */
+/* #card-panel #grey #lighten-5 #z-depth-1{
     width: 80px;
+} */
+
+
+
+.first{
+    position: relative;
+    width: 180px;
+    height: 60px;
+    margin: 10px ;
+    background:#ca580b;
+    border-radius: 40px;
+     padding: 25px;
+    /* text-indent: .1em; */
+   /* display : flex; */
+   display:flex;
+   font-size: 15px;
+   justify-content: inline;
+    
+}
+
+/* .grey.lighten-5 {
+    background-color: #06882200;
+}
+
+#col .s12 .m8 .offset-m2 .l6 .offset-l3 {
+   float:right
+} */
+
+.user{
+    float :right ;
+    /* width :20%; */
+    background:red;
+    display: flex;
+    text-align: right;
+
+    
+}
+
+.bot {
+    float:left;
+    width:80%
+}
+
+.fourth {
+    display: flex;
 }
 

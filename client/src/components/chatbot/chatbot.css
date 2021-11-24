@@ -18,27 +18,27 @@
     background-color:#219653;
   } */ 
 
-  .row .col{
+  /* .row .col{
       float: right;
-  }
+  } */
 
-  .card-panel {
+  /* .card-panel {
       border-radius: 80%;
       margin: 20px;
        /* margin-bottom: 10px;
       margin-left: 50px; */
-       width: 200px; 
-       padding:2px;
-       position: revert;
+       /* width: 100px;  */
+       /* padding:2px;
+       position: revert; */
        
       /* border: 4px; */
       
       /* height:28px; */
       /* background-color: red; */
      
-  }
+  /* } */
 
- 
+  */
 
   /* .btn-floating .btn-small .waves-effect {
       background-color:salmon;
@@ -48,4 +48,11 @@
       background-color: seagreen !important;
   }
 
- 
+ /* .first {
+    background-color:rgb(129, 199, 0) ;
+    width:20px;
+    border-radius: 50%;
+    height:28px;
+    padding:0px;
+ }
+ */
